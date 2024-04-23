@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AN94GYQYJN.com.onsigna.develop.TeCreemos-dev",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
