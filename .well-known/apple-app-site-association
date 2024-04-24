@@ -1,11 +1,18 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "AN94GYQYJN.com.onsigna.develop.TeCreemos.qa",
-                "paths": [ "*"]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "AN94GYQYJN.com.onsigna.develop.TeCreemos-dev",
+          "AN94GYQYJN.com.onsigna.develop.TeCreemos.qa"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
         ]
-    }
+      }
+    ]
+  }
 }
