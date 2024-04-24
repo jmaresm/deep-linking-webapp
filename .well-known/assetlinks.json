@@ -6,4 +6,16 @@
       "sha256_cert_fingerprints":
       ["28:AA:DF:24:BB:B9:8A:E4:5C:96:75:E8:B2:88:D1:F2:A4:DC:DC:FB:32:3F:2D:B8:1F:C0:DA:3D:82:F1:94:D6"]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "onsigna.wallet.techreo.qa",
+      "sha256_cert_fingerprints": [
+        "98:04:4A:66:AA:10:A9:34:8C:BD:DC:84:24:BA:13:BD:78:60:3C:66:D2:03:87:50:81:75:0B:6C:AC:94:E4:F0"
+      ]
+    }
   }]
