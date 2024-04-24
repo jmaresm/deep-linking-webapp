@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "AN94GYQYJN.com.onsigna.develop.TeCreemos-dev",
+                "appID": "AN94GYQYJN.com.onsigna.develop.TeCreemos.qa",
                 "paths": [ "*"]
             }
         ]
