@@ -5,7 +5,8 @@
       {
         "appIDs": [
           "AN94GYQYJN.com.onsigna.develop.TeCreemos-dev",
-          "AN94GYQYJN.com.onsigna.develop.TeCreemos.qa"
+          "AN94GYQYJN.com.onsigna.develop.TeCreemos.qa",
+          "AN94GYQYJN.com.onsigna.develop.TeCreemos"
         ],
         "components": [
           {

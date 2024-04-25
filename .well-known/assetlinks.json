@@ -18,4 +18,16 @@
         "98:04:4A:66:AA:10:A9:34:8C:BD:DC:84:24:BA:13:BD:78:60:3C:66:D2:03:87:50:81:75:0B:6C:AC:94:E4:F0"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "onsigna.wallet.techreo",
+      "sha256_cert_fingerprints": [
+        "65:5F:1F:9E:87:41:95:33:58:E8:6B:EB:66:A9:E6:74:B2:AB:40:88:FE:92:88:73:2F:67:A3:6E:A9:20:FE:2B"
+      ]
+    }
   }]
